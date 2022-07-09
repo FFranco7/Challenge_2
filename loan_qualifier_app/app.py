@@ -118,7 +118,6 @@ def save_qualifying_loans(qualifying_loans):
     
 
 
-
 def run():
     """The main function for running the script."""
 
