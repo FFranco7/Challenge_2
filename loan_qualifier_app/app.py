@@ -6,13 +6,15 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+# Please note I am having trouble importing both 'fire' and 'quiestionary' into VS. I downloaded them but the import is not working.
 import sys
 import fire
 import questionary
 from pathlib import Path
 
+# Input the save_csv function directly into the fileio folder to define it as a function and import it into 'app.py' --> DRY
 from qualifier.utils.fileio import load_csv, save_csv
-
+    #Include the 'save_cvs' import from the qualifier/utils/fileio file
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
     calculate_loan_to_value_ratio,
@@ -115,7 +117,12 @@ def save_qualifying_loans(qualifying_loans):
     user_confirmation = questionary.text("Would you like to save your qualifying loan?").ask()
     file_output_path = questionary.text("Where would you like to store your file?").ask()
     save_csv(qualifying_loans, user_confirmation, file_output_path)
-    
+    """
+    - Define 'qualifying_loans' as the loans that actually qualified from the '
+    find_qualifying_loans' function.
+    - Then, utilize the questionary to ask the users to save their loan qualification and state
+    their desired output path.
+    - Save the qualifying, confirmation and output information """
 
 
 def run():

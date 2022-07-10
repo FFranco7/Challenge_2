@@ -1,0 +1,584 @@
+   50  cd ~
+   51  cd ..
+   52  ls
+   53  pwd
+   54  cd Desktop
+   55  mkdir <TEST>
+   56  mkdir <terminal_prework>
+   57  mkdir terminal_prework
+   58  mkdir test
+   59  cd Desktop
+   60  mkdir test
+   61  touch sample.txt
+   62  cd test
+   63  ls
+   64  cd ..
+   65  mv sample.txt test
+   66  cd test
+   67  ls
+   68  touch sample2.txt
+   69  ls
+   70  cd crypto
+   71  cd desktop
+   72  cd Desktop
+   73  cd ..
+   74  cd Crypto
+   75  ls
+   76  cd Optima
+   77  ls
+   78  cd ..
+   79  cd Optima
+   80  ls
+   81  cd ..
+   82  cd test
+   83  ls
+   84  cd ..
+   85  cd 0%
+   86  ls
+   87  cd ~/git
+   88  cd Desktop
+   89  cd test
+   90  cd ~
+   91  mkdir git
+   92  cd ..
+   93  mkdir ~/git
+   94  cd ~git
+   95  cd ~/git
+   96  git clone git@github.com:FFranco7/codingdemo.git
+   97  open
+   98  cd codingdemo
+   99  ls
+  100  cd ~/git
+  101  open .
+  102  finder .
+  103  open .
+  104  echo "# Test1" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:FFranco7/Test1.git\ngit push -u origin main
+  105  ls
+  106  mkdir test2
+  107  cd test2
+  108  echo "# Test2" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:FFranco7/Test2.git\ngit push -u origin main
+  109  open .
+  110  cd ..
+  111  mkdir Test3
+  112  cd Test3
+  113  echo "# Test3" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:FFranco7/Test3.git\ngit push -u origin main
+  114  cd ..
+  115  mkdir Test4
+  116  cd Test4
+  117  git init
+  118  git add -A
+  119  git commit -m "initial commit"
+  120  git remote add origin git@github.com:FFranco7/Test4.git\ngit branch -M main\ngit push -u origin main
+  121  git status
+  122  git add -A
+  123  git status
+  124  git commit -m "initial commit"
+  125  git remote add origin git@github.com:FFranco7/Test4.git\ngit branch -M main\ngit push -u origin main
+  126  open .
+  127  git init
+  128  git add -A
+  129  git status
+  130  git commit -m "initial commit"
+  131  touch README.md
+  132  git add -A
+  133  git commit -m "initial commit"
+  134  git remote add origin git@github.com:FFranco7/Test4.git\ngit branch -M main\ngit push -u origin main
+  135  cd ..
+  136  mkdir Test5
+  137  cd Test5
+  138  git init
+  139  open .
+  140  git add -A
+  141  git commit -m "initial commit"
+  142  git remote add origin git@github.com:FFranco7/Test5.git\ngit branch -M main\ngit push -u origin main
+  143  cd ..
+  144  git clone git@github.com:FFranco7/Test6.git
+  145  ls
+  146  pwd
+  147  cd Test6
+  148  git add .
+  149  git commit -m "updating readme"
+  150  git push
+  151  git add .
+  152  git commit -m "updating readme"
+  153  git push
+  154   /usr/bin/env /usr/bin/python3 /Users/franco7/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51687 -- /Users/franco7/Desktop/Columbia\ Fintech/Class\ Activities/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  155  cd ~/git
+  156  git clone git@github.com:FFranco7/Test7.git
+  157  open .
+  158  open .
+  159  cd Test7
+  160  ls
+  161  cd git
+  162  git clone git@github.com:FFranco7/Challenge_1.git
+  163  ls
+  164  open .
+  165  cd Challenge_1
+  166  git status
+  167  git add .
+  168  git commit -m "added loan_analyzer.py"
+  169  git push
+  170  git status
+  171  git status
+  172  git add .
+  173  git status
+  174  git commit -m "updated loan_analyzer.py"
+  175  git status
+  176  git push
+  177  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  178  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  179  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  180  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  181  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  182  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  183  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  184  /usr/bin/python3 /Users/franco7/git/Challenge_1/loan_analyzer.py
+  185  conda activate atmdev
+  186  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/atm.py
+  187  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/atm.py
+  188  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/utils.py
+  189  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/utils.py
+  190  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/utils.py
+  191  9999999
+  192  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/utils.py
+  193  9999999
+  194  /Users/franco7/opt/anaconda3/envs/atmdev/bin/python /Users/franco7/git/ATM/atm.py
+  195  9999999
+  196  pwd
+  197  cd git
+  198  ls
+  199  git clone git@github.com:FFranco7/ATM.git
+  200  ls
+  201  cd atm
+  202  ls
+  203  git status
+  204  ls
+  205  cat.readme.md
+  206  cat readme.md
+  207  ls
+  208  git status
+  209  add .
+  210  git add .
+  211  git status
+  212  git commit -m "my atm app"
+  213  git push
+  214  git status
+  215  conda create -n atmdev python=3.7 anaconda
+  216  conda activate atmdev
+  217  ls
+  218  pip install -r requirements.txt
+  219  pip show fire
+  220  ls
+  221  python atm.py
+  222  conda env list
+  223  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  224  psw
+  225  pwd
+  226  ls
+  227  cd Desktop
+  228  ls
+  229  cd Desktop/
+  230  cd Desktop
+  231  cd ..
+  232  cd ..
+  233  pwd
+  234  cd Desktop
+  235  ls
+  236  pwd
+  237  ls
+  238  cd franco7
+  239  ls
+  240  cd Desktop
+  241  ls
+  242  ls
+  243  ls
+  244  Cd Columbia Fintech
+  245  ls
+  246  ls
+  247  cd Desktop
+  248  ls
+  249  conda activate dev
+  250  conda deactivate
+  251  pwd
+  252  ls
+  253  cd Desktop
+  254  ls
+  255  pwd
+  256  cd ..
+  257  finder .
+  258  open .
+  259  open.
+  260  open .
+  261  open .
+  262  ls
+  263  cd Desktop
+  264  ls
+  265  cd "columbia fintech"
+  266  ls
+  267  cd ~
+  268  ls
+  269  cd Documents
+  270  ls
+  271  cd Columbia Fintech
+  272  cd "Columbia Fintech"
+  273  ls
+  274  cd "FinTech-Workspace"
+  275  ls
+  276  cd "Python_Project"
+  277  ls
+  278  cd "Starter_Code"
+  279  l
+  280  ls
+  281  cd ~
+  282  ls
+  283  cd Documents
+  284  ls
+  285  cd Challenge_1
+  286  ls
+  287  git add .
+  288  git commit -m "uploading final challenge1"
+  289  git push
+  290  conda activate dev
+  291  pip -V
+  292  pip freese
+  293  pip freeze
+  294  pip install fire
+  295  pip install questionary
+  296  conda activate
+  297  ls
+  298  cd documents
+  299  ls
+  300  cd "columbia fintech"
+  301  ls
+  302  cd  FinTech-Workspace\n
+  303  ls
+  304  cd Python_Project
+  305  ls
+  306  cd Notebook
+  307  ls
+  308  cd "Module 2 - 02_Loan_Qualifier_Filtering_Data"
+  309  ls
+  310  cd Unsolved
+  311  ls
+  312  cd app.py
+  313  ls
+  314  app.py
+  315  python app.py
+  316  activate conda dec
+  317  activate conda dev
+  318  conda activate
+  319  conda deactivate
+  320  conda activate
+  321  /Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - 02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  322  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  323  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  324  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  325  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  326  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  327  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  328  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  329  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  330  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  331  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  332  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  333  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  334  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  335  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  336  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  337  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  338  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  339  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  340  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  341  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  342  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  343  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  344  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  345  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  346  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  347  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  348  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  349  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  350  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  351  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  352  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  353  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  354  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  355  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  356  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  357  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  358  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  359  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  360  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  361  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  362  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  363  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  364  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  365  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  366  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  367  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  368  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  369  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  370  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  371  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  372  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  373  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  374  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  375  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  376  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  377  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  378  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  379  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  380  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  381  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  382  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  383  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  384  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  385  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  386  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  387  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  388  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  389  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  390  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  391  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  392  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  393  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  394  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  395  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  396  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  397  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  398  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  399  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  400  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  401  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  402  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  403  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  404  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  405  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  406  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  407  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  408  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  409  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  410  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  411  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  412  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  413  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  414  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  415  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  416  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  417  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  418  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  419  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  420  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  421  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  422  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  423  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  424  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  425  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  426  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  427  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  428  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  429  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  430  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  431  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  432  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  433  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  434  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  435  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  436  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  437  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  438  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  439  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  440  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  441  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  442  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  443  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  444  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  445  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  446  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  447  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  448  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  449  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  450  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  451  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  452  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  453  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  454  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  455  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  456  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/hello_python.py"
+  457  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  458  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  459  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  460  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  461  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  462  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  463  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  464  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  465  /usr/bin/python3 "/Users/franco7/Desktop/Columbia Fintech/FinTech-Workspace/Python_Project/Starter_Code/loan_analyzer.py"
+  466  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - 01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  467  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - 02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  468  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - 02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  469  cd git
+  470  ls
+  471  git clone git@github.com:FFranco7/Challenge_2.git
+  472  ls
+  473  cd Challenge_2
+  474  ls
+  475  pwd
+  476  cd ~
+  477  pws
+  478  pwd
+  479  cd /Users/admin/documents/python-workspace
+  480  /Users/admin/documents/python-workspace
+  481  cd documents
+  482  ls
+  483  pwd
+  484  cd ..
+  485  pwd
+  486  pip install fire
+  487  pwd
+  488  cd documents
+  489  ls
+  490  cd Columbia Fintech
+  491  cd "Columbia Fintech"
+  492  ls
+  493  cd FinTech-Workspace
+  494  ls
+  495  touch run_fire
+  496  ls
+  497  cd ..
+  498  ls
+  499  cd FinTech-Workspace
+  500  ls
+  501  rm run_fire
+  502  ls
+  503  cd Python_Project
+  504  ls
+  505  touch run_fire
+  506  ls
+  507  cd run_fire
+  508  open run_fire
+  509  run fire
+  510  ifr
+  511  fire
+  512  run fire
+  513  open fire
+  514  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - 02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  515  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Run_Fire.py"
+  516  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - Modular Programming/app.py"
+  517  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/Module 2 - Modular Programming/app.py"
+  518  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/cli.py"
+  519  /usr/bin/python3 "/Users/franco7/Documents/Columbia Fintech/FinTech-Workspace/Python_Project/Notebook/cli.py"
+  520  pip install fire
+  521  ls
+  522  find fire
+  523  cd documents
+  524  ls
+  525  cd "Columbia Fintech"
+  526  ls
+  527  cd FinTech-Workspace
+  528  ls
+  529  Python_Project
+  530  cd Python_Project
+  531  ls
+  532  touch
+  533  touch cli.py
+  534  pwd
+  535  ls
+  536  python cli.py --run fire
+  537  la
+  538  ls
+  539  pip install fire
+  540  pip install questionary
+  541  cd ~
+  542  git config --global user.name FFranco7
+  543  git config --global user.email frfranco_m@hotmail.com
+  544  git config --list
+  545  pwd
+  546  cd documents
+  547  ls
+  548  cd "Columbia Fintech"
+  549  ls
+  550  cd FinTech-Workspace
+  551  ls
+  552  cd ..
+  553  cd ..
+  554  pwd
+  555  git clone git@github.com:FFranco7/Challenge_2.git
+  556  git status
+  557  git status
+  558  pwd
+  559  cd git
+  560  cd Challenge_2
+  561  git status
+  562  cd ~
+  563  cd documents
+  564  cd Challenge_2
+  565  git status
+  566  git add README.md
+  567  git status
+  568  touch new_file.txt
+  569  git status
+  570  git add new_file.txt
+  571  git status
+  572  git commit -m "edited readme and added new text file"
+  573  git status
+  574  git push
+  575  pwd
+  576  cd documents
+  577  ls
+  578  cd ..
+  579  ls
+  580  cd Challenge_2
+  581  git .
+  582  git add .
+  583  git commit -m "updating readme"
+  584  git push
+  585  pwd
+  586  ls
+  587  cd ..
+  588  ls
+  589  cd Challenge_2
+  590  git add .
+  591  git commit -m "updating code"
+  592  git push
+  593  git push
+  594  cd ~
+  595  ls
+  596  cd documents
+  597  git clone git@github.com:FFranco7/Challenge_2.git
+  598  ls
+  599  cd git git@github.com:FFranco7/Challenge_22.git
+  600  ls
+  601  git clone git@github.com:FFranco7/Challenge_22.git
+  602  ls
+  603  ls
+  604  cd Challenge_22
+  605  ls
+  606  git add .
+  607  git commit -m "updating code"
+  608  git push
+  609  pwd
+  610  cd ..
+  611  pwd
+  612  git clone git@github.com:FFranco7/Challenge_2.git
+  613  git add .
+  614  git commit -m "updating readme"
+  615  git add.
+  616  git add .
+  617  pwd
+  618  cd git
+  619  git add .
+  620  ls
+  621  cd ..
+  622  pwd
+  623  cd documents
+  624  cd challenge_2
+  625  git add .
+  626  git commit -m "updating readme"
+  627  git push
+  628  git add . 
+  629  git commit -m "finished updating readme"
+  630  git commit -m "finished updating readme"
+  631  git add .
+  632  git commit -m "finished readme updates"
+  633  git push
